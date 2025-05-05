@@ -4,6 +4,14 @@
 
 I am a dedicated software developer who approaches tasks with advanced planning and autodidactic learning. I possess the ability to quickly understand and adapt to existing codebases and learn new technologies efficiently.  
 I aim to leverage my skills, integrate seamlessly, and contribute to advancing the product.
+ 📁 Featured Projects
+• [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git)- E2E project in SQL & C# & Angular.  
+Server side: 3-layer architecture with dependency injection, calculated fields.  
+Client side: Version control with Git, use of FormModules, dynamic form.
+
+• [Apartment-marketing-website](https://github.com/Ester-Carlebach/Apartment-marketing-website.git) E2E in Node.js & React.js & MongoDB –   
+Server side: Relationships between models, token encryption.   
+Client side: Generic components and use of middlewares.
 
 🛠️ **Languages and Tools**  
 <p align="left">
