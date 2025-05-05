@@ -6,6 +6,7 @@ I am a dedicated software developer who approaches tasks with advanced planning 
 I aim to leverage my skills, integrate seamlessly, and contribute to advancing the product.
 <p></p>
  📁 Featured Projects
+ 
 • [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git)- E2E project in SQL & C# & Angular.  
 Server side: 3-layer architecture with dependency injection, calculated fields.  
 Client side: Version control with Git, use of FormModules, dynamic form.
