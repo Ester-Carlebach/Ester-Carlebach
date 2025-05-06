@@ -1,11 +1,11 @@
 # Ester Carlebach
 
-🌟 **About Me**
+## 🌟 **About Me**
 
 I am a dedicated software developer who approaches tasks with advanced planning and autodidactic learning. I possess the ability to quickly understand and adapt to existing codebases and learn new technologies efficiently.  
 I aim to leverage my skills, integrate seamlessly, and contribute to advancing the product.
 <p></p>
- 📁 Featured Projects
+##  📁 Featured Projects
  
 • [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git)- E2E project in SQL & C# & Angular.  
 Server side: 3-layer architecture with dependency injection, calculated fields.  
@@ -15,7 +15,7 @@ Client side: Version control with Git, use of FormModules, dynamic form.
 Server side: Relationships between models, token encryption.   
 Client side: Generic components and use of middlewares.
 
-🛠️ **Languages and Tools**  
+## 🛠️ **Languages and Tools**  
 <p align="left">
    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="50" height="50"/>
    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="50" height="50"/>
@@ -40,7 +40,7 @@ Client side: Generic components and use of middlewares.
 </p>
 
 
-📬 **Contact Me**  
+## 📬 **Contact Me**  
 📧 Email: [esty41655@gmail.com](mailto:esty41655@gmail.com)  
 
 Feel free to check out my repositories for a closer look at my work!
