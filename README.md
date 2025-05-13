@@ -2,9 +2,8 @@
 
 ## 🌟 **About Me**
 
-I am a dedicated software developer who approaches tasks with advanced planning and autodidactic learning. I possess the ability to quickly understand and adapt to existing codebases and learn new technologies efficiently.  
-I aim to leverage my skills, integrate seamlessly, and contribute to advancing the product.
-##📁 **Featured Projects**
+Hi, I'm Esther Carlebach, a Full Stack Developer. I complete tasks thoroughly through prior planning and self-directed learning, with strong teamwork skills and the ability to analyze existing code. I quickly adapt to new technologies and strive to realize my excellent capabilities.
+## 📁 **Featured Projects**
  
 • [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git)- E2E project in SQL & C# & Angular.  
 Server side: 3-layer architecture with dependency injection, calculated fields.  
