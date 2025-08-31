@@ -2,16 +2,30 @@
 
 ## 🌟 **About Me**
 
-Hi, I'm Esther Carlebach, a Full Stack Developer. I complete tasks thoroughly through prior planning and self-directed learning, with strong teamwork skills and the ability to analyze existing code. I quickly adapt to new technologies and strive to realize my excellent capabilities.
+Welcome to my profile!  
+I’m a **Full Stack Developer** with a unique combination of **System Analysis** and **Hands-On Development** experience.  
+Skilled in **end-to-end (E2E) development** – from requirements gathering and system design to server/client implementation, testing, and deployment.  
+
+🚀 **Highlights**  
+- Experience with **React (TypeScript)**: Figma-based UI, reusable components, and clean state management.  
+- Development of **RESTful APIs** in **.NET (C#)** and **Node.js** with layered architecture (3-layer architecture) and **Dependency Injection (DI)**.  
+- Daily work with **SQL Server / MySQL**: complex queries, stored procedures, and data analysis.  
+- Cloud deployment (Render, Clever Cloud), **Docker** for containerization, and **Git** for version control.  
+- Bridging the gap between business and technology: **System Analysis → Design → Delivery**.  
+
+---
+
 ## 📁 **Featured Projects**
  
-• [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git)- E2E project in SQL & C# & Angular.  
-Server side: 3-layer architecture with dependency injection, calculated fields.  
-Client side: Version control with Git, use of FormModules, dynamic form.
+• [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git) – E2E project in SQL, C#, Angular  
+   **Server side**: 3-layer architecture, dependency injection, calculated fields  
+   **Client side**: FormModules, dynamic forms, Git version control  
 
-• [Apartment-marketing-website](https://github.com/Ester-Carlebach/Apartment-marketing-website.git) E2E in Node.js & React.js & MongoDB –   
-Server side: Relationships between models, token encryption.   
-Client side: Generic components and use of middlewares.
+• [Apartment-marketing-website](https://github.com/Ester-Carlebach/Apartment-marketing-website.git) – E2E in Node.js, React.js, MongoDB  
+   **Server side**: Relationships between models, token encryption  
+   **Client side**: Generic components, middleware usage  
+
+---
 
 ## 🛠️ **Languages and Tools**  
 <p align="left">
@@ -37,8 +51,9 @@ Client side: Generic components and use of middlewares.
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Blazor.png/120px-Blazor.png" alt="Blazor" title="Blazor" width="50" height="50"/>
 </p>
 
+---
 
 ## 📬 **Contact Me**  
 📧 Email: [esty41655@gmail.com](mailto:esty41655@gmail.com)  
 
-Feel free to check out my repositories for a closer look at my work!
+Feel free to explore my repositories for a closer look at my work!
