@@ -1,12 +1,11 @@
 # Ester Carlebach
 
-## 🌟 **About Me**
+##  **About Me**
 
-Welcome to my profile!  
-I’m a **Full Stack Developer** with a unique combination of **System Analysis** and **Hands-On Development** experience.  
-Skilled in **end-to-end (E2E) development** – from requirements gathering and system design to server/client implementation, testing, and deployment.  
+Full Stack Developer with experience in end-to-end system development, from requirements analysis and system design to implementation, testing, and deployment. Experienced in developing and maintaining enterprise systems in an Agile environment, with a focus on upgrading existing systems, creating new interfaces, and performing optimization. Analytical, fast learner, responsible, and able to work effectively both independently and in cross-functional teams. Committed to contributing to organizational and technological development.
 
-🚀 **Highlights**  
+
+ **Highlights**  
 - Experience with **React (TypeScript)**: Figma-based UI, reusable components, and clean state management.  
 - Development of **RESTful APIs** in **.NET (C#)** and **Node.js** with layered architecture (3-layer architecture) and **Dependency Injection (DI)**.  
 - Daily work with **SQL Server / MySQL**: complex queries, stored procedures, and data analysis.  
@@ -15,7 +14,7 @@ Skilled in **end-to-end (E2E) development** – from requirements gathering and 
 
 ---
 
-## 📁 **Featured Projects**
+##  **Featured Projects**
  
 • [Fruit-Vegetables-store](https://github.com/Ester-Carlebach/Fruit-Vegetables-store.git) – E2E project in SQL, C#, Angular  
    **Server side**: 3-layer architecture, dependency injection, calculated fields  
@@ -53,7 +52,7 @@ Skilled in **end-to-end (E2E) development** – from requirements gathering and 
 
 ---
 
-## 📬 **Contact Me**  
-📧 Email: [esty41655@gmail.com](mailto:esty41655@gmail.com)  
+## **Contact Me**  
+Email: [esty41655@gmail.com](mailto:esty41655@gmail.com)  
 
 Feel free to explore my repositories for a closer look at my work!
