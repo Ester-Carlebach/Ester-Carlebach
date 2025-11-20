@@ -2,7 +2,7 @@
 
 ##  **About Me**
 
-Full Stack Developer with experience in end-to-end system development, from requirements analysis and system design to implementation, testing, and deployment. Experienced in developing and maintaining enterprise systems in an Agile environment, with a focus on upgrading existing systems, creating new interfaces, and performing optimization. Analytical, fast learner, responsible, and able to work effectively both independently and in cross-functional teams. Committed to contributing to organizational and technological development.
+Full Stack Developer with strong analytical thinking, quick self-learning ability, and attention to detail. Combines precision, responsibility, and a systems-oriented mindset, with high motivation to grow professionally and contribute to team and organizational success.
 
 
  **Highlights**  
