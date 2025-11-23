@@ -2,16 +2,24 @@
 
 ##  **About Me**
 
-Full Stack Developer with strong analytical thinking, quick self-learning ability, and attention to detail. Combines precision, responsibility, and a systems-oriented mindset, with high motivation to grow professionally and contribute to team and organizational success.
-
-
+I am a Full Stack Developer specializing in end-to-end system development, including backend services, frontend interfaces, database integration, and deployment. I combine analytical thinking, accuracy, and a systems-oriented mindset with the ability to learn new technologies quickly and independently. I am passionate about building clean, maintainable, and scalable software solutions.
  **Highlights**  
-- Experience with **React (TypeScript)**: Figma-based UI, reusable components, and clean state management.  
-- Development of **RESTful APIs** in **.NET (C#)** and **Node.js** with layered architecture (3-layer architecture) and **Dependency Injection (DI)**.  
-- Daily work with **SQL Server / MySQL**: complex queries, stored procedures, and data analysis.  
-- Cloud deployment (Render, Clever Cloud), **Docker** for containerization, and **Git** for version control.  
-- Bridging the gap between business and technology: **System Analysis → Design → Delivery**.  
+-React (TypeScript), reusable components, clean state management, UI implementation from Figma
+-RESTful API development in .NET (C#) and Node.js with 3-layer architecture and DI
+-Strong database experience: SQL Server & MySQL, stored procedures, data modeling
+-Docker containerization, Git version control, and cloud deployment (Render, CleverCloud)
+-Full process ownership: System analysis → Design → Development → Delivery
 
+**Professional Experience**
+
+*Full Stack Developer – Bpreven (2025)*
+
+- Developed and maintained RESTful APIs using .NET Core integrated with SQL Server.
+-Built responsive user interfaces using React and TypeScript based on Figma designs.
+-Integrated AI-based PDF generation to improve automation and reduce operational load.
+-Designed and implemented an independent admin dashboard for real-time data access.
+-Improved system reliability through debugging, optimization, and clean architecture.
+-Worked in an Agile environment with Git version control and CI/CD pipelines via GitHub Actions.
 ---
 
 ##  **Featured Projects**
