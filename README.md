@@ -3,7 +3,7 @@
 ##  **About Me**
 
 I am a Full Stack Developer specializing in end-to-end system development, including backend services, frontend interfaces, database integration, and deployment. I combine analytical thinking, accuracy, and a systems-oriented mindset with the ability to learn new technologies quickly and independently. I am passionate about building clean, maintainable, and scalable software solutions.
- **Highlights**  
+## **Highlights**  
 -React (TypeScript), reusable components, clean state management, UI implementation from Figma
 -RESTful API development in .NET (C#) and Node.js with 3-layer architecture and DI
 -Strong database experience: SQL Server & MySQL, stored procedures, data modeling
@@ -12,7 +12,7 @@ I am a Full Stack Developer specializing in end-to-end system development, inclu
 
 **Professional Experience**
 
-*Full Stack Developer – Bpreven (2025)*
+Full Stack Developer – Bpreven (2025)
 
 - Developed and maintained RESTful APIs using .NET Core integrated with SQL Server.
 -Built responsive user interfaces using React and TypeScript based on Figma designs.
