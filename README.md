@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Ester Carlebach</h1>
-<h3 align="center">Full Stack Developer | C# · .NET Core · Angular · React</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 
 ---
@@ -60,5 +60,3 @@ esty41655@gmail.com
 https://github.com/Ester-Carlebach  
 
 ---
-
- *Open to Full Stack Developer opportunities using C# / .NET Core and modern frontend frameworks.*
