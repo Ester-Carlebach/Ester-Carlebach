@@ -126,3 +126,5 @@ https://github.com/Ester-Carlebach/Apartment-marketing-website
 
  esty41655@gmail.com  
  https://github.com/Ester-Carlebach
+
+ ![snake animation](https://github.com/Ester-Carlebach/Ester-Carlebach/blob/output/github-contribution-grid-snake.svg)
