@@ -1,0 +1,67 @@
+<svg width="100%" viewBox="0 0 680 220" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Ester Carlebach - Full Stack Developer</title>
+<desc>GitHub profile banner with flowing data-stream lines in blue, teal, pink and yellow</desc>
+<defs>
+<radialGradient id="bgDS" cx="50%" cy="45%" r="95%">
+<stop offset="0%" stop-color="#0a1530"/>
+<stop offset="60%" stop-color="#050b1c"/>
+<stop offset="100%" stop-color="#02050f"/>
+</radialGradient>
+<linearGradient id="nameDS" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#22d3ee"/>
+<stop offset="35%" stop-color="#3b82f6"/>
+<stop offset="70%" stop-color="#a855f7"/>
+<stop offset="100%" stop-color="#ec4899"/>
+</linearGradient>
+<linearGradient id="ruleDS" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+<stop offset="30%" stop-color="#22d3ee" stop-opacity="0.9"/>
+<stop offset="60%" stop-color="#a855f7" stop-opacity="0.9"/>
+<stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="fadeDS" x1="0%" y1="0%" x2="100%" y2="0%">
+<stop offset="0%" stop-color="#050b1c" stop-opacity="0.96"/>
+<stop offset="55%" stop-color="#050b1c" stop-opacity="0.82"/>
+<stop offset="100%" stop-color="#050b1c" stop-opacity="0"/>
+</linearGradient>
+</defs>
+
+<rect x="0" y="0" width="680" height="220" rx="14" fill="url(#bgDS)"/>
+
+<g fill="none" stroke-width="1.6" stroke-linecap="round">
+<path d="M40 40 C 200 60, 360 95, 470 110" stroke="#22d3ee" opacity="0.85"/>
+<path d="M40 60 C 200 78, 360 100, 470 110" stroke="#38bdf8" opacity="0.8"/>
+<path d="M40 80 C 200 92, 360 104, 470 110" stroke="#3b82f6" opacity="0.75"/>
+<path d="M40 105 C 200 108, 360 109, 470 110" stroke="#60a5fa" opacity="0.7"/>
+<path d="M40 130 C 200 124, 360 116, 470 110" stroke="#a855f7" opacity="0.8"/>
+<path d="M40 152 C 200 140, 360 122, 470 110" stroke="#c084fc" opacity="0.78"/>
+<path d="M40 174 C 200 158, 360 130, 470 110" stroke="#ec4899" opacity="0.8"/>
+<path d="M40 194 C 200 176, 360 138, 470 110" stroke="#f472b6" opacity="0.7"/>
+<path d="M40 118 C 200 116, 360 112, 470 110" stroke="#fbbf24" opacity="0.55"/>
+</g>
+
+<g fill="none" stroke="#22d3ee" stroke-width="1.6" stroke-linecap="round">
+<path d="M470 110 C 540 100, 590 70, 645 45" opacity="0.8"/>
+<path d="M470 110 C 540 105, 590 95, 645 80" stroke="#3b82f6" opacity="0.75"/>
+<path d="M470 110 C 540 112, 590 118, 645 122" stroke="#a855f7" opacity="0.78"/>
+<path d="M470 110 C 540 120, 590 145, 645 168" stroke="#ec4899" opacity="0.78"/>
+<path d="M470 110 C 540 125, 590 160, 645 192" stroke="#fbbf24" opacity="0.6"/>
+</g>
+
+<circle cx="470" cy="110" r="5" fill="#67e8f9"/>
+<circle cx="470" cy="110" r="11" fill="none" stroke="#67e8f9" stroke-width="0.8" opacity="0.5"/>
+
+<rect x="0" y="0" width="430" height="220" rx="14" fill="url(#fadeDS)"/>
+
+<g font-family="'Courier New',monospace" font-size="11" opacity="0.5">
+<text x="612" y="50" fill="#22d3ee">01001</text>
+<text x="612" y="128" fill="#a855f7">10110</text>
+<text x="612" y="186" fill="#fbbf24">00101</text>
+</g>
+
+<text x="60" y="118" font-family="Arial,sans-serif" font-size="46" font-weight="bold" fill="url(#nameDS)">Ester Carlebach</text>
+
+<text x="62" y="152" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#e0f2fe">Full Stack Developer</text>
+
+<rect x="62" y="170" width="300" height="2.5" fill="url(#ruleDS)"/>
+</svg>
