@@ -1,4 +1,10 @@
+<p align="center">
+  <a href="[https://github.com/Ester-Carlebach](https://ester-carlrbach-portfolio.onrender.com/
 
+)">
+    <img src="https://raw.githubusercontent.com/Ester-Carlebach/Ester-Carlebach/main/assets/banner.svg"  alt="Ester Carlebach Banner" width="100%" />
+  </a>
+</p>
 <h1 align="center">Hi, I'm Ester Carlebach</h1>
 <h3 align="center">Full Stack Developer</h3>
 
